@@ -1,6 +1,5 @@
 # Personal Portfolio Project
-
-
+## Sheridan Garland
 
 ## Available Scripts
 
